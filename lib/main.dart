@@ -107,7 +107,7 @@ class App extends StatelessWidget {
                         Text('24回再生',
                           style: TextStyle(fontSize: 13),
                         ),
-                        Text('4日前',
+                        Text('6日前',
                           style: TextStyle(fontSize: 13),
                         ),
 
